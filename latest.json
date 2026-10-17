@@ -1,46 +1,49 @@
 {
-  "version": "0.9.1",
+  "version": "0.10.0",
   "notes": [
-    "업데이트: 인터넷에서 새 버전을 바로 받아요 (윈도우 · 맥 모두 업데이트 버튼만)",
-    "아직 예전 햇살(0.8 이하)인 컴퓨터가 있으면 새 버전을 우리집 클라우드에도 올려서, 그 컴퓨터도 업데이트 버튼으로 받아요",
-    "설정 → 우리집: 초대 코드로 다른 우리집에 들어가기"
+    "찬양 작업 공간 → 장부: 전표 등록(입금·출금·대체, 부가세 나누기), 기간별 조회, 계정별 원장, 시산표, 월별 손익, 엑셀로 저장",
+    "찬양 작업 공간 → 거래처: 거래처 정보와 거래처별 매출·매입·받을 돈·줄 돈",
+    "함께 → 도구: 계산기, 부가세 · 3.3% 원천징수, 퍼센트, 날짜 계산, 금액 한글 표기 (위쪽 막대의 계산기 단추로 어디서든)",
+    "링크: 자주 여는 링크를 없애고, 찬양 · 정현 작업 공간에 각자 쓰는 링크를 따로",
+    "계정 기록: 가로로 긴 줄 + 그룹",
+    "사이드바: 묶음 오른쪽 톱니바퀴로 묶음 · 메뉴 순서 바꾸기, 안 쓰는 메뉴 숨기기"
   ],
-  "publishedAt": "2026-10-17T06:22:18.498Z",
+  "publishedAt": "2026-10-17T07:53:36.707Z",
   "win32": {
-    "file": "Haetsal-Setup-0.9.1.exe",
-    "size": 102246431,
-    "sha256": "4806f109d3ec0d80688b8b91b63830fbbfe4243fba4f789ef2411e9ff2710bae",
+    "file": "Haetsal-Setup-0.10.0.exe",
+    "size": 102271519,
+    "sha256": "4f38e8603aaad060f5ed03ebe2aa1bca42b794f61f23c0ffbb09a547bbc19dcc",
     "parts": [
       {
-        "path": "files/0.9.1/Haetsal-Setup-0.9.1.exe.001",
+        "path": "files/0.10.0/Haetsal-Setup-0.10.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.9.1/Haetsal-Setup-0.9.1.exe.002",
+        "path": "files/0.10.0/Haetsal-Setup-0.10.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.9.1/Haetsal-Setup-0.9.1.exe.003",
-        "size": 12246431
+        "path": "files/0.10.0/Haetsal-Setup-0.10.0.exe.003",
+        "size": 12271519
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.9.1-mac.zip",
-    "size": 130594896,
-    "sha256": "511fa7f5bd398236ac5ad757ec7b2c9f9068c0bfe105d87576d5fdb97ad2143d",
+    "file": "Haetsal-0.10.0-mac.zip",
+    "size": 130630438,
+    "sha256": "6e26cfe3964b778828e55c603a6473a51e253c6cec339e058b3e4948e37417e5",
     "parts": [
       {
-        "path": "files/0.9.1/Haetsal-0.9.1-mac.zip.001",
+        "path": "files/0.10.0/Haetsal-0.10.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.9.1/Haetsal-0.9.1-mac.zip.002",
+        "path": "files/0.10.0/Haetsal-0.10.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.9.1/Haetsal-0.9.1-mac.zip.003",
-        "size": 40594896
+        "path": "files/0.10.0/Haetsal-0.10.0-mac.zip.003",
+        "size": 40630438
       }
     ]
   }
