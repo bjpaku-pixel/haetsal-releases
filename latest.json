@@ -1,0 +1,47 @@
+{
+  "version": "0.9.0",
+  "notes": [
+    "업데이트: 이제 인터넷에서 새 버전을 바로 받아요 (윈도우 · 맥 모두 업데이트 버튼만 누르면 끝)",
+    "설정 → 우리집: 초대 코드로 다른 우리집에 들어가기",
+    "맥: 처음 설치는 '햇살 맥 설치' 파일 하나로 (인터넷에서 받아 설치)"
+  ],
+  "publishedAt": "2026-10-17T06:02:37.833Z",
+  "win32": {
+    "file": "Haetsal-Setup-0.9.0.exe",
+    "size": 102247085,
+    "sha256": "b7a78eba0ce192eb7ecb60ec9d88ada317af1f25895d0375d363c1b98d2d7de4",
+    "parts": [
+      {
+        "path": "files/0.9.0/Haetsal-Setup-0.9.0.exe.001",
+        "size": 45000000
+      },
+      {
+        "path": "files/0.9.0/Haetsal-Setup-0.9.0.exe.002",
+        "size": 45000000
+      },
+      {
+        "path": "files/0.9.0/Haetsal-Setup-0.9.0.exe.003",
+        "size": 12247085
+      }
+    ]
+  },
+  "darwin": {
+    "file": "Haetsal-0.9.0-mac.zip",
+    "size": 130594194,
+    "sha256": "e337c553149b178733f89c7cac34e08ae3aa701e4ec9210f44818d3f2b9638ab",
+    "parts": [
+      {
+        "path": "files/0.9.0/Haetsal-0.9.0-mac.zip.001",
+        "size": 45000000
+      },
+      {
+        "path": "files/0.9.0/Haetsal-0.9.0-mac.zip.002",
+        "size": 45000000
+      },
+      {
+        "path": "files/0.9.0/Haetsal-0.9.0-mac.zip.003",
+        "size": 40594194
+      }
+    ]
+  }
+}
