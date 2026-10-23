@@ -1,46 +1,45 @@
 {
-  "version": "0.22.0",
+  "version": "0.23.0",
   "notes": [
-    "보스: 가까운 시간(예: 캐릭터 01:00 · 보스 01:01)은 한 줄에 같이 놓되 시간은 바뀌지 않고, 진행 시간 칸에 01:00 / 01:01 로 쌓아서 1초까지 그대로 보여요",
-    "끌어서 옮기기 · 리모컨에서 놓기가 1초 단위로 정확하게, 아이콘을 누른 채 ↑ ↓ 키로 1초씩 (Shift 는 10초씩)",
-    "리모컨 캐릭터도 보스처럼 연필: 이름 · 아이콘 · 길이 고치기, 행동 추가, 아이콘 그림 넣기 (보기 단추 '바인드 · 무적' → '바인드 · 기타')"
+    "보스: 1페 · 2페 · 3페 이름표는 메모 오른쪽 맨 끝 (메모를 가리지 않게), 타임라인 배경은 흰색 하나로",
+    "캡처 단추: 닉네임 · 서버 · 날짜 · 공유 가능 여부 · 프로그램(메켜놔) · 한마디를 붙인 그림을 PNG로 저장하거나 복사해서 커뮤니티 글에 바로 붙여넣기 (흰 바탕, 메모 전체도 아래에)"
   ],
-  "publishedAt": "2026-10-23T09:21:42.795Z",
+  "publishedAt": "2026-10-23T09:50:10.615Z",
   "win32": {
-    "file": "Haetsal-Setup-0.22.0.exe",
-    "size": 102292701,
-    "sha256": "0933de9ef6c487b2cc235e58f257551308c56515955265614b932fe7b2b7dfbd",
+    "file": "Haetsal-Setup-0.23.0.exe",
+    "size": 102344829,
+    "sha256": "b08d1629e6a7d4ea6b645b67877564805bf7d207063a3922475cbdc16ec5b1f2",
     "parts": [
       {
-        "path": "files/0.22.0/Haetsal-Setup-0.22.0.exe.001",
+        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.22.0/Haetsal-Setup-0.22.0.exe.002",
+        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.22.0/Haetsal-Setup-0.22.0.exe.003",
-        "size": 12292701
+        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.003",
+        "size": 12344829
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.22.0-mac.zip",
-    "size": 130654138,
-    "sha256": "df1acdf8286e93c221895e624291de1ece800cfd6ef42e38fcc384ab02ce9326",
+    "file": "Haetsal-0.23.0-mac.zip",
+    "size": 130734186,
+    "sha256": "b4c8f2b53eab6e943f5b02f4d3bf67dd45622c532358935d43536df3814f2853",
     "parts": [
       {
-        "path": "files/0.22.0/Haetsal-0.22.0-mac.zip.001",
+        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.22.0/Haetsal-0.22.0-mac.zip.002",
+        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.22.0/Haetsal-0.22.0-mac.zip.003",
-        "size": 40654138
+        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.003",
+        "size": 40734186
       }
     ]
   }
