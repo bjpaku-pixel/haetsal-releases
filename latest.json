@@ -1,46 +1,46 @@
 {
-  "version": "0.28.0",
+  "version": "0.28.1",
   "notes": [
-    "메이플 일정: '내 넥슨 계정 캐릭터' — 설정에 넣은 키의 넥슨 계정에 있는 캐릭터를 레벨 순으로 보여 주고, 누르면 바로 추가돼요 (이름 검색 없이 넥슨이 준 캐릭터 번호로 조회)",
-    "이름을 적어 조회해도 내 계정 캐릭터면 계정 목록으로 바로 찾고, 넥슨 이름 검색이 실패해도 계정 목록에서 한 번 더 찾아요",
-    "검색칸에 적으면 내 계정 캐릭터가 걸러져요. 계정 목록을 못 받으면 넥슨이 준 답과 함께 이유를 보여 줘요"
+    "메이플 일정이 캐릭터를 못 찾던 문제를 고쳤어요: 넥슨에 요청을 보낼 때 프로그램 이름 '햇살'이 깨진 글자로 들어가서 넥슨이 캐릭터 조회를 거절하고 있었어요 → 영문(Haetsal)으로 보내요",
+    "그래도 넥슨이 '잘못된 요청'이라고 하면 넥슨 사이트 테스트(curl)와 같은 방법으로 한 번 더 보내요",
+    "내 계정 캐릭터 목록이 거절될 때 '그런 캐릭터를 찾지 못했어요' 대신 '넥슨이 이 요청을 받아 주지 않았어요'로 정확히 알려 줘요"
   ],
-  "publishedAt": "2026-10-23T19:45:31.019Z",
+  "publishedAt": "2026-10-23T20:51:32.054Z",
   "win32": {
-    "file": "Haetsal-Setup-0.28.0.exe",
-    "size": 102359341,
-    "sha256": "d3bb0eab966ee828bc012adbd4f73402fe88824b388c144c9e37fdf9dc41b23d",
+    "file": "Haetsal-Setup-0.28.1.exe",
+    "size": 102360179,
+    "sha256": "a4c37848cb7469cf3af5e07f004316a60159d3c03e2ec06f4d2875a8d8e6fa9c",
     "parts": [
       {
-        "path": "files/0.28.0/Haetsal-Setup-0.28.0.exe.001",
+        "path": "files/0.28.1/Haetsal-Setup-0.28.1.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.28.0/Haetsal-Setup-0.28.0.exe.002",
+        "path": "files/0.28.1/Haetsal-Setup-0.28.1.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.28.0/Haetsal-Setup-0.28.0.exe.003",
-        "size": 12359341
+        "path": "files/0.28.1/Haetsal-Setup-0.28.1.exe.003",
+        "size": 12360179
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.28.0-mac.zip",
-    "size": 130750177,
-    "sha256": "a37c9767778a31e94382d3909a25669ec8f05a6d23cd16b1f28551707aaa5afc",
+    "file": "Haetsal-0.28.1-mac.zip",
+    "size": 130751300,
+    "sha256": "ca9cd57d29cf3f631450062884accf46df132da758aea89d36e1b640f86163ab",
     "parts": [
       {
-        "path": "files/0.28.0/Haetsal-0.28.0-mac.zip.001",
+        "path": "files/0.28.1/Haetsal-0.28.1-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.28.0/Haetsal-0.28.0-mac.zip.002",
+        "path": "files/0.28.1/Haetsal-0.28.1-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.28.0/Haetsal-0.28.0-mac.zip.003",
-        "size": 40750177
+        "path": "files/0.28.1/Haetsal-0.28.1-mac.zip.003",
+        "size": 40751300
       }
     ]
   }
