@@ -1,45 +1,46 @@
 {
-  "version": "0.15.0",
+  "version": "0.16.0",
   "notes": [
-    "보스: 극딜 · 준극딜 · 바인드 · 보스 패턴은 큰 아이콘만, 시간은 왼쪽 진행 시간 칸에 나오고 색깔 선(초록 · 빨강 · 주황 · 파랑)으로 아이콘까지 이어져요",
-    "1 · 2 · 3페 선을 마우스로 끌어서 올리고 내리기 (끄는 동안 시간 표시)"
+    "보스: 진행 시간 칸은 시간이 겹치면 옆으로 늘어나요, 이어지는 선은 점선",
+    "줄 이름: 캐릭터 · 보스 · 메모",
+    "리모컨 → 캐릭터 옆 그림 단추: 극딜(시퀀스 1) · 준극딜(시퀀스 2) · 오리진 · 어센트 아이콘을 게임 캡처로 바꾸기 (Ctrl+V · 끌어다 놓기 · 파일)"
   ],
-  "publishedAt": "2026-10-23T06:57:59.517Z",
+  "publishedAt": "2026-10-23T07:27:45.971Z",
   "win32": {
-    "file": "Haetsal-Setup-0.15.0.exe",
-    "size": 102287582,
-    "sha256": "ef4d358fcb4ecfe20fd3cff795ac8cc3b16321853710b53ecdfa0427e192703e",
+    "file": "Haetsal-Setup-0.16.0.exe",
+    "size": 102288896,
+    "sha256": "6979fad68f3e973635524714425518d2a34f0135401d10758a2c97a31d820e28",
     "parts": [
       {
-        "path": "files/0.15.0/Haetsal-Setup-0.15.0.exe.001",
+        "path": "files/0.16.0/Haetsal-Setup-0.16.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.15.0/Haetsal-Setup-0.15.0.exe.002",
+        "path": "files/0.16.0/Haetsal-Setup-0.16.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.15.0/Haetsal-Setup-0.15.0.exe.003",
-        "size": 12287582
+        "path": "files/0.16.0/Haetsal-Setup-0.16.0.exe.003",
+        "size": 12288896
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.15.0-mac.zip",
-    "size": 130647396,
-    "sha256": "bd5a309ab826f351df991150342fe7f6d6afc4227b617173ea46b1d6343e064f",
+    "file": "Haetsal-0.16.0-mac.zip",
+    "size": 130649093,
+    "sha256": "bebe5e0051f33fa8600c460a35155687c2da85d971d4c2aee15a168b562f266b",
     "parts": [
       {
-        "path": "files/0.15.0/Haetsal-0.15.0-mac.zip.001",
+        "path": "files/0.16.0/Haetsal-0.16.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.15.0/Haetsal-0.15.0-mac.zip.002",
+        "path": "files/0.16.0/Haetsal-0.16.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.15.0/Haetsal-0.15.0-mac.zip.003",
-        "size": 40647396
+        "path": "files/0.16.0/Haetsal-0.16.0-mac.zip.003",
+        "size": 40649093
       }
     ]
   }
