@@ -1,47 +1,47 @@
 {
-  "version": "0.13.0",
+  "version": "0.14.0",
   "notes": [
-    "보스 타임라인: 맨 위가 0초, 진행 시간으로 (00:00 → 20:00)",
-    "세 줄로: 극딜 · 준극딜 · 바인드 / 보스 패턴 / 메모, 모두 아이콘으로",
-    "오른쪽 리모컨: 극딜 · 준극딜 · 바인드 · 어센트 · 무적기와 보스 패턴 10가지를 마우스로 끌어다 놓기 (패턴 이름 · 아이콘 고치기)",
-    "직업은 은월, 파티원 칸은 뺌"
+    "보스: 극딜 · 오리진 15초, 준극딜 10초 (정해진 길이)",
+    "페이즈 수는 보스마다 정하기 (익스트림 스우 3페이즈 고정, 1페는 00:00), 페이즈 줄을 누르면 시작 시간만 바꾸기",
+    "첫 번째 줄(극딜 · 준극딜 · 바인드 · 무적기)은 시간 + 아이콘만",
+    "보스 패턴 이름: 실드 → 실드 대비, 촉수 → 촉수 대비"
   ],
-  "publishedAt": "2026-10-23T06:16:33.559Z",
+  "publishedAt": "2026-10-23T06:38:29.487Z",
   "win32": {
-    "file": "Haetsal-Setup-0.13.0.exe",
-    "size": 102287720,
-    "sha256": "b8cc8dc8852d90a20c82c41d841e35a65957f790557706ab53c9f89d2cc63e0e",
+    "file": "Haetsal-Setup-0.14.0.exe",
+    "size": 102286640,
+    "sha256": "6cbd3b7d6032c52bc6fd628e381cd6cde76915fc8270bae1d50ebbefe9995b76",
     "parts": [
       {
-        "path": "files/0.13.0/Haetsal-Setup-0.13.0.exe.001",
+        "path": "files/0.14.0/Haetsal-Setup-0.14.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.13.0/Haetsal-Setup-0.13.0.exe.002",
+        "path": "files/0.14.0/Haetsal-Setup-0.14.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.13.0/Haetsal-Setup-0.13.0.exe.003",
-        "size": 12287720
+        "path": "files/0.14.0/Haetsal-Setup-0.14.0.exe.003",
+        "size": 12286640
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.13.0-mac.zip",
-    "size": 130644890,
-    "sha256": "24c9123118a556a4fbb9d80c27cf7a7b6f3a4e7aec8d26039568b3a05f71cc89",
+    "file": "Haetsal-0.14.0-mac.zip",
+    "size": 130645942,
+    "sha256": "aede52f6fcdaddec8de12c3bad80b1ecb498b305596c4993666dd284fc679d7e",
     "parts": [
       {
-        "path": "files/0.13.0/Haetsal-0.13.0-mac.zip.001",
+        "path": "files/0.14.0/Haetsal-0.14.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.13.0/Haetsal-0.13.0-mac.zip.002",
+        "path": "files/0.14.0/Haetsal-0.14.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.13.0/Haetsal-0.13.0-mac.zip.003",
-        "size": 40644890
+        "path": "files/0.14.0/Haetsal-0.14.0-mac.zip.003",
+        "size": 40645942
       }
     ]
   }
