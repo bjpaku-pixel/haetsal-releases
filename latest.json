@@ -1,45 +1,46 @@
 {
-  "version": "0.23.0",
+  "version": "0.24.0",
   "notes": [
-    "보스: 1페 · 2페 · 3페 이름표는 메모 오른쪽 맨 끝 (메모를 가리지 않게), 타임라인 배경은 흰색 하나로",
-    "캡처 단추: 닉네임 · 서버 · 날짜 · 공유 가능 여부 · 프로그램(메켜놔) · 한마디를 붙인 그림을 PNG로 저장하거나 복사해서 커뮤니티 글에 바로 붙여넣기 (흰 바탕, 메모 전체도 아래에)"
+    "정현 작업 공간 → 메이플 일정: 캐릭터 이름으로 넥슨 Open API 에서 불러오기 (레벨 · 직업 · 월드 · 길드 · 경험치 · 캐릭터 그림)",
+    "일일 퀘스트 · 일간 보스 · 주간 보스 · 주간 퀘스트 · 월간 보스를 한 화면에서 체크, 초기화 시간(자정 · 목요일 · 월요일 · 1일)이 지나면 저절로 비워져요",
+    "카드의 연필로 할 일 고르기 (보스 난이도 · 직접 추가), 캐릭터 여러 개, API 키는 이 컴퓨터에만 암호화해서 저장"
   ],
-  "publishedAt": "2026-10-23T09:50:10.615Z",
+  "publishedAt": "2026-10-23T16:14:16.835Z",
   "win32": {
-    "file": "Haetsal-Setup-0.23.0.exe",
-    "size": 102344829,
-    "sha256": "b08d1629e6a7d4ea6b645b67877564805bf7d207063a3922475cbdc16ec5b1f2",
+    "file": "Haetsal-Setup-0.24.0.exe",
+    "size": 102354820,
+    "sha256": "d752f910d66be6a2c44d52a0d4b5ac0ba5d1774d0022d08f7096f21ef6088599",
     "parts": [
       {
-        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.001",
+        "path": "files/0.24.0/Haetsal-Setup-0.24.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.002",
+        "path": "files/0.24.0/Haetsal-Setup-0.24.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.23.0/Haetsal-Setup-0.23.0.exe.003",
-        "size": 12344829
+        "path": "files/0.24.0/Haetsal-Setup-0.24.0.exe.003",
+        "size": 12354820
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.23.0-mac.zip",
-    "size": 130734186,
-    "sha256": "b4c8f2b53eab6e943f5b02f4d3bf67dd45622c532358935d43536df3814f2853",
+    "file": "Haetsal-0.24.0-mac.zip",
+    "size": 130747122,
+    "sha256": "256ddf8303f2688c024f1d2910148a793f15f289dd81a8e5e6574d8242bbf077",
     "parts": [
       {
-        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.001",
+        "path": "files/0.24.0/Haetsal-0.24.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.002",
+        "path": "files/0.24.0/Haetsal-0.24.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.23.0/Haetsal-0.23.0-mac.zip.003",
-        "size": 40734186
+        "path": "files/0.24.0/Haetsal-0.24.0-mac.zip.003",
+        "size": 40747122
       }
     ]
   }
