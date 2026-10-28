@@ -1,47 +1,48 @@
 {
-  "version": "0.29.0",
+  "version": "0.30.0",
   "notes": [
-    "메이플 일정을 넥슨 Open API 이용약관에 맞췄어요: API 키는 이제 우리집 공유가 아니라 '내 계정'에만 저장돼요 (약관상 키는 다른 사람과 같이 쓸 수 없어요). 예전에 넣은 키는 넣은 사람 계정으로 저절로 옮겨져요",
-    "넥슨에 보내는 요청 사이를 0.25초 이상 띄워요 (개발 단계 키 초당 5건 제한 지키기)",
-    "조회 결과는 이 컴퓨터에 30일까지만 보관하고 지나면 지워요 (넥슨 고지: 받은 데이터는 30일 안에 갱신)",
-    "메이플 일정 화면에 'Data based on NEXON Open API' 출처를 표기해요"
+    "메이플 일정을 게임 스케줄러처럼 바꿨어요: 왼쪽에 캐릭터 목록(캐릭터 그림 둘레에 이번 주 주간 보스 n/12), 오른쪽에 고른 캐릭터의 스케줄러 판",
+    "판은 일일 · 주간 콘텐츠(CONTENTS · QUEST)와 보스(WEEKLY · MONTHLY · DAILY)로 나뉘고, 난이도 배지(EXTREME · CHAOS · HARD · NORMAL · EASY)와 완료 체크가 보여요",
+    "일일 퀘스트는 40/100 처럼 진행도, 에픽 던전은 STAGE, 무릉도장은 층, 지하 수로는 점수로 보여 줘요. 등록 안 했어도 잡은 보스는 '미등록 보스 · 클리어 기록'에",
+    "지난주(지난 주기)에 조회한 기록은 초기화된 상태로 보여 주고, 새로 조회하면 바뀌어요",
+    "내 넥슨 계정 캐릭터 칸은 접었다 펼 수 있고, 판 위 ↑↓ 로 목록 순서를 바꿀 수 있어요 (화면 구성 참고: 메요일)"
   ],
-  "publishedAt": "2026-10-23T21:10:35.624Z",
+  "publishedAt": "2026-10-28T06:29:03.781Z",
   "win32": {
-    "file": "Haetsal-Setup-0.29.0.exe",
-    "size": 102359722,
-    "sha256": "fc676de555f0686b51368aa1545d346cde2e5b7b0d6324f78d4c926005964696",
+    "file": "Haetsal-Setup-0.30.0.exe",
+    "size": 102363394,
+    "sha256": "626e530a1f5a8070054912987b0b4c2921d456f8e090ac35d745968a303623d2",
     "parts": [
       {
-        "path": "files/0.29.0/Haetsal-Setup-0.29.0.exe.001",
+        "path": "files/0.30.0/Haetsal-Setup-0.30.0.exe.001",
         "size": 45000000
       },
       {
-        "path": "files/0.29.0/Haetsal-Setup-0.29.0.exe.002",
+        "path": "files/0.30.0/Haetsal-Setup-0.30.0.exe.002",
         "size": 45000000
       },
       {
-        "path": "files/0.29.0/Haetsal-Setup-0.29.0.exe.003",
-        "size": 12359722
+        "path": "files/0.30.0/Haetsal-Setup-0.30.0.exe.003",
+        "size": 12363394
       }
     ]
   },
   "darwin": {
-    "file": "Haetsal-0.29.0-mac.zip",
-    "size": 130751817,
-    "sha256": "6f0c2ec88298af65dcbd0aaa9f3af71d13f2da91bcbe029d6f9c9c30f5c7b9ab",
+    "file": "Haetsal-0.30.0-mac.zip",
+    "size": 130753769,
+    "sha256": "05936cc65ce763c83ec49a7a0c48e9b33adc9ead55f7498f453731a383274fe0",
     "parts": [
       {
-        "path": "files/0.29.0/Haetsal-0.29.0-mac.zip.001",
+        "path": "files/0.30.0/Haetsal-0.30.0-mac.zip.001",
         "size": 45000000
       },
       {
-        "path": "files/0.29.0/Haetsal-0.29.0-mac.zip.002",
+        "path": "files/0.30.0/Haetsal-0.30.0-mac.zip.002",
         "size": 45000000
       },
       {
-        "path": "files/0.29.0/Haetsal-0.29.0-mac.zip.003",
-        "size": 40751817
+        "path": "files/0.30.0/Haetsal-0.30.0-mac.zip.003",
+        "size": 40753769
       }
     ]
   }
